@@ -1,3 +1,0 @@
-This is a new file created on local machine to be pushed to GitHub repo.
-And it did work well. Nice )
-Now I need to check pull request to download this to my local machine
