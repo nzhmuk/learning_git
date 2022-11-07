@@ -1,1 +1,0 @@
-This is a new file2 created on the local repo and will be added to the project in order to learn adding new files to the project and push them to GitHub.
